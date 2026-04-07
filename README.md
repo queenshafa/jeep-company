@@ -1,20 +1,18 @@
-# 🏎️ Jeep Website Remake - UI Slicing Project
+# Jeep Website Remake
 
-A front-end development project focused on recreating the **Jeep** website interface. This project was built to sharpen my skills in **UI Slicing**, specifically using **Bootstrap** and **SCSS** for more modular and scalable styling.
+A professional UI/UX reconstruction of the **Jeep** official website, built to master **advanced UI slicing** techniques and modular CSS architecture.
 
----
+## 🚀 Key Features
+* **Hero Experience:** High-impact automotive visuals with a bold, adventurous aesthetic.
+* **Vehicle Showcase:** Responsive grid layouts featuring Jeep’s iconic lineup.
+* **Modular UI:** Clean and reusable components built for high-performance rendering.
+* **Responsive Precision:** Pixel-perfect layout adjustments for seamless mobile and desktop viewing.
 
-## 🚀 Project Goals
-* **Precision Slicing**: Replicating the professional automotive layout into clean HTML/CSS.
-* **Advanced Styling**: Implementing **SCSS** for better management of variables, mixins, and nested styles.
-* **Responsive Design**: Ensuring the website looks great across all device sizes using the **Bootstrap Grid System**.
-
-## 🛠️ Built With
-* **HTML5**: Semantic structure.
-* **SCSS**: Modular styling and pre-processing.
-* **Bootstrap 5**: Core layout and components.
-
+## 🛠️ Tech Stack
+* **Structure:** HTML5 / JavaScript
+* **Styling:** [Bootstrap 5](https://getbootstrap.com/) & [SCSS](https://sass-lang.com/)
+* **Architecture:** Modular SCSS (Variables, Mixins, and Nesting) for scalable styling.
 
 ## 🔗 Live Demo
-You can check out the live version of this project here:  
-👉 **[View Live Demo](https://jeep-company.vercel.app/)**
+You can view the live project here:  
+**[View Live Demo](https://jeep-company.vercel.app/)**
